@@ -64,7 +64,7 @@ class Worksheet implements WorksheetInterface
     /**
      * Convert column number to Excel column letter using recursion
      */
-    private function numberToColumnLetter(int $num): string
+    public function numberToColumnLetter(int $num): string
     {
         if ($num <= 0) {
             return '';

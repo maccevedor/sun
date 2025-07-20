@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbook>
+  <properties>
+    <title>Sales Report 2024</title>
+    <author>Interview Candidate</author>
+    <created>2025-07-20 12:35:54</created>
+  </properties>
+  <worksheets>
+    <worksheet name="Sales Data">
+      <cell coordinate="A1" format="general">Product</cell>
+      <cell coordinate="B1" format="general">Quantity</cell>
+      <cell coordinate="C1" format="general">Price</cell>
+      <cell coordinate="D1" format="general">Total</cell>
+      <cell coordinate="A2" format="general">Laptop</cell>
+      <cell coordinate="B2" format="number">10.00</cell>
+      <cell coordinate="C2" format="currency">$999.99</cell>
+      <cell coordinate="D2" format="currency">$9,999.90</cell>
+      <cell coordinate="A3" format="general">Mouse</cell>
+      <cell coordinate="B3" format="number">50.00</cell>
+      <cell coordinate="C3" format="currency">$25.50</cell>
+      <cell coordinate="D3" format="currency">$1,275.00</cell>
+      <cell coordinate="A4" format="general">Keyboard</cell>
+      <cell coordinate="B4" format="number">30.00</cell>
+      <cell coordinate="C4" format="currency">$75.00</cell>
+      <cell coordinate="D4" format="currency">$2,250.00</cell>
+      <cell coordinate="A5" format="general">Monitor</cell>
+      <cell coordinate="B5" format="general">15</cell>
+      <cell coordinate="C5" format="currency">$299.99</cell>
+      <cell coordinate="D5" format="currency">$4,499.85</cell>
+      <cell coordinate="A6" format="general">Headphones</cell>
+      <cell coordinate="B6" format="general">25</cell>
+      <cell coordinate="C6" format="currency">$89.99</cell>
+      <cell coordinate="D6" format="currency">$2,249.75</cell>
+      <cell coordinate="A7" format="general">Webcam</cell>
+      <cell coordinate="B7" format="general">20</cell>
+      <cell coordinate="C7" format="currency">$149.99</cell>
+      <cell coordinate="D7" format="currency">$2,999.80</cell>
+    </worksheet>
+    <worksheet name="Summary">
+      <cell coordinate="A1" format="general">Summary Report</cell>
+      <cell coordinate="A3" format="general">Total Products:</cell>
+      <cell coordinate="B3" format="general">7</cell>
+      <cell coordinate="A4" format="general">Generated:</cell>
+      <cell coordinate="B4" format="general">2025-07-20 12:35:54</cell>
+    </worksheet>
+    <worksheet name="Backup Sales Data">
+      <cell coordinate="A1" format="general">Product</cell>
+      <cell coordinate="B1" format="general">Quantity</cell>
+      <cell coordinate="C1" format="general">Price</cell>
+      <cell coordinate="D1" format="general">Total</cell>
+      <cell coordinate="A2" format="general">Laptop</cell>
+      <cell coordinate="B2" format="number">10.00</cell>
+      <cell coordinate="C2" format="currency">$999.99</cell>
+      <cell coordinate="D2" format="currency">$9,999.90</cell>
+      <cell coordinate="A3" format="general">Mouse</cell>
+      <cell coordinate="B3" format="number">50.00</cell>
+      <cell coordinate="C3" format="currency">$25.50</cell>
+      <cell coordinate="D3" format="currency">$1,275.00</cell>
+      <cell coordinate="A4" format="general">Keyboard</cell>
+      <cell coordinate="B4" format="number">30.00</cell>
+      <cell coordinate="C4" format="currency">$75.00</cell>
+      <cell coordinate="D4" format="currency">$2,250.00</cell>
+      <cell coordinate="A5" format="general">Monitor</cell>
+      <cell coordinate="B5" format="general">15</cell>
+      <cell coordinate="C5" format="currency">$299.99</cell>
+      <cell coordinate="D5" format="currency">$4,499.85</cell>
+      <cell coordinate="A6" format="general">Headphones</cell>
+      <cell coordinate="B6" format="general">25</cell>
+      <cell coordinate="C6" format="currency">$89.99</cell>
+      <cell coordinate="D6" format="currency">$2,249.75</cell>
+      <cell coordinate="A7" format="general">Webcam</cell>
+      <cell coordinate="B7" format="general">20</cell>
+      <cell coordinate="C7" format="currency">$149.99</cell>
+      <cell coordinate="D7" format="currency">$2,999.80</cell>
+    </worksheet>
+  </worksheets>
+</workbook>
